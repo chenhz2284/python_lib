@@ -1,1 +1,0 @@
-this is project2 readme from linux
